@@ -1,0 +1,12 @@
+metric,value
+orders_total,43739
+rating_coef_minutes_per_point,-38.72273037239318
+rating_improvement_assumed_points,0.5
+minutes_saved_per_order_from_rating,-19.36136518619659
+total_minutes_saved_from_rating,-846846.7518790526
+semi_urban_coef_extra_minutes_per_order,74.18336633520924
+semi_urban_orders,152
+semi_urban_total_minutes_burden,11275.871682951805
+jam_coef_extra_minutes_per_order,15.585984474109512
+jam_orders,13725
+jam_total_minutes_burden,213917.63690715306
